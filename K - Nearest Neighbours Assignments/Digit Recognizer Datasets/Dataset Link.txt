@@ -1,0 +1,3 @@
+YOU CAN DOWNLOAD THE DATASET FROM THE WEBSITE GIVEN BELOW :
+
+http://yann.lecun.com/exdb/mnist/
